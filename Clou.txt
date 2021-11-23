@@ -1,0 +1,13 @@
+Cloud.google.com
+Console
+Activate cloud shell (Top right corner)
+
+Abhinav - user414
+user414@roidtc.com
+ROInov@444
+
+user414	user414@roidtc.com	ROInov444
+
+ls 
+pwd
+sudo apt update
